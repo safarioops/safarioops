@@ -32,7 +32,6 @@
 ![](https://img.shields.io/badge/MicrosoftOffice-informational?style=flat&logo=MicrosoftOffice&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&color=2D333B&logoColor=white)
 
-![](https://img.shields.io/badge/MicrosoftOffice-informational?style=flat&logo=MicrosoftOffice&color=2D333B&logoColor=white)
 
 <!--
 **safarioops/safarioops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
