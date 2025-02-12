@@ -22,8 +22,6 @@
 ![](https://img.shields.io/badge/Cinema4D-informational?style=flat&logo=Cinema4D&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/MicrosoftOffice-informational?style=flat&logo=MicrosoftOffice&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&color=2D333B&logoColor=white)
-![](https://img.shields.io/badge/Word-informational?style=flat&logo=Word&color=2D333B&logoColor=white)
-![](https://img.shields.io/badge/Office-informational?style=flat&logo=Office&color=2D333B&logoColor=white)
 
 </br>
 
