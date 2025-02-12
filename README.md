@@ -15,10 +15,11 @@
 
 ![](https://img.shields.io/badge/AdobePhotoshop-informational?style=flat&logo=AdobePhotoshop&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/AdobeIllustrator-informational?style=flat&logo=AdobeIllustrator&color=2D333B&logoColor=white)
-![](https://img.shields.io/badge/InDesign-informational?style=flat&logo=InDesign&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/AdobeAfterEffects-informational?style=flat&logo=AdobeAfterEffects&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/AdobeInDesign-informational?style=flat&logo=AdobeInDesign&color=2D333B&logoColor=white)
+![](https://img.shields.io/badge/AdobeLightroom-informational?style=flat&logo=AdobeLightroom&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=AdobeXD&color=2D333B&logoColor=white)
+![](https://img.shields.io/badge/Cinema4D-informational?style=flat&logo=Cinema4D&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/MicrosoftOffice-informational?style=flat&logo=MicrosoftOffice&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&color=2D333B&logoColor=white)
 
