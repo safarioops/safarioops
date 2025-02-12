@@ -15,6 +15,7 @@
 
 ![](https://img.shields.io/badge/AdobePhotoshop-informational?style=flat&logo=AdobePhotoshop&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/AdobeIllustrator-informational?style=flat&logo=AdobeIllustrator&color=2D333B&logoColor=white)
+![](https://img.shields.io/badge/AdobeInDesign-informational?style=flat&logo=AdobeInDesign&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/AdobeAfterEffects-informational?style=flat&logo=AdobeAfterEffects&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/AdobeInDesign-informational?style=flat&logo=AdobeInDesign&color=2D333B&logoColor=white)
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=AdobeXD&color=2D333B&logoColor=white)
