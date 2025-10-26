@@ -27,10 +27,10 @@
 
 📫 How to reach me...
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/safarioops)
-[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/safarioops)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohamadsafari)
+[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/mohamadsafaricom)
 [![whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+989134334214&text&app_absent=0)
-[![instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/safarioops)
+[![instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mohamadsafaricom)
 [![twitter](https://img.shields.io/badge/X-2D333B?style=for-the-badge&logo=X&logoColor=white)](https://x.com/safariooops)
 [![discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/safarioops#4531)
 
